@@ -1,0 +1,2 @@
+age=int(input("What is your current age?"))
+print("Next year you will be",age+1)
