@@ -1,0 +1,11 @@
+def check_username(username):
+    if len(username)<5:
+        return "weak"
+    elif len(username)<=10:
+        return "Good"
+    else:
+        return "Strong"
+        
+username=input("Enter your username:")
+result=check_username(username)
+print(result)
