@@ -1,0 +1,13 @@
+def grade(number):
+    if number>=90:
+        return "A"
+    elif number>=80:
+        return "B"
+    elif number>=70:
+        return "C"
+    else:
+        return "Fail"
+
+number=float(input("Enter the number:"))
+result=grade(number)
+print(result)
