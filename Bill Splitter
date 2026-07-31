@@ -1,4 +1,0 @@
-bill=1250
-Friends=int(input("number of friends "))
-split=1250/Friends
-print("Each person pays",split)
