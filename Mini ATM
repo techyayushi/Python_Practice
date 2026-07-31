@@ -1,8 +1,0 @@
-balance=float(input("Enter the balance:"))
-withdraw=float(input("Enter the withdrawl:"))
-
-if withdraw > balance:
-    print("Insufficient Funds")
-else:
-    remaining_fund=balance-withdraw
-    print("Remaining Fund",remaining_fund)
