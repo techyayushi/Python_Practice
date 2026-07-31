@@ -1,7 +1,0 @@
-name=input("what is your name? ")
-age=int(input("what is your age? "))
-city=input("what is your city? ")
-
-print(f"Name:{name}")
-print(f"Age:{age}")
-print(f"City:{city}")
