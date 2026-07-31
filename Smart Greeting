@@ -1,9 +1,0 @@
-def greet(name):
-    if name=="Radhika":
-        return "Welcome back,Radhika!"
-    else:
-        return "Hello,"+name
-        
-name=input("Enter the name:")
-result=greet(name)
-print(result)
