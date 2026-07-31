@@ -1,7 +1,0 @@
-Age=int(input("Enter the age "))
-if(Age<12):
-    print("Ticket Price is ₹100")
-elif(Age<60):
-    print("Ticket Price is ₹200")
-else:
-    print(" Ticket Price is ₹150")
