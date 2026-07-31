@@ -1,2 +1,0 @@
-language=input("Your favorite programming language.?")
-print(language ,"sounds intresting")
