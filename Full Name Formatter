@@ -1,3 +1,0 @@
-First_name=input("Enter your first name-")
-last_name=input("Enter your second name-")
-print(f"hello,{First_name} {last_name}")
